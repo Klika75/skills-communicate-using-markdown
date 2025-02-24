@@ -7,3 +7,11 @@ Punto Esclamativo Bracket Descrizione Bracket Parantesi Tonda link Parantesi Ton
 
 Senza il punto mette il link
 Bracket Descrizione Bracket Parantesi Tonda link Parantesi Tonda
+
+
+Esempio di codice si vedrà in sfondo grigio
+tre apici singoli all'inizio ed alla fine
+
+```java
+int myInt = 5;
+```
